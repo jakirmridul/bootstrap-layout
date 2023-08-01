@@ -1,4 +1,4 @@
 # templates
 
 
-https://jakirmridul.github.io/templates
+https://jakirmridul.github.io/bootstrap-layout
